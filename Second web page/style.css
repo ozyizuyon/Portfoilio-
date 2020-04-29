@@ -1,0 +1,40 @@
+ul{list-style-type: none;}
+nav {color: black;}
+
+nav ul{display: flex; text-align: right;
+       margin-left: 60em;
+       }
+
+    nav ul li{margin: 1em 1em 1em 1em;
+        text-decoration: none;
+        }
+
+        header {background-image: url("images/alberto.jpg");
+            display: flex; justify-content: space-between;}
+
+        .sell {display: flex;
+            text-align: start;}
+
+        h1{ width: 100%;
+            font-size: 50px;
+        text-align: left;
+         margin-left: 2em;}
+
+        .container{  text-align: center;}
+
+        nav ul li a { color: white;
+            text-decoration: none;
+            display: block;
+             width: 100%;
+            padding: 1em 2em;
+            align-content: right;}
+
+            .sell li{ margin-left: 2em; background-color: pink;}
+             
+ 
+.image-after {
+
+    width: 30%;
+    margin-left: 50em;
+    margin-top: -3em;
+    }
